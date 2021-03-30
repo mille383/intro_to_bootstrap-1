@@ -1,0 +1,32 @@
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+}
+
+img {
+    width: 100%;
+}
+
+
+#about {
+    color: green;
+}
+
+a {
+    color: orange;
+}
+
+.navigation-links {
+    font-size: 36px;
+}
+
+
+#hero-image {
+    /* In order for an image to show up inside of a div element, you must specify a height for the element */
+    height: 500px;
+    background-image: url('../images/dog.jpg');
+}
+
